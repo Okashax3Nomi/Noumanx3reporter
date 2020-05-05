@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - OKASHA -NOOR------•◈•
+|__\~~) •||•SHINWARI - BOY---------------•◈•
+|__(-----\  •◈•------BLACK-REPORTER- GANG-----•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mOKASHA NOOR
+\033[1;96mInstagram \033[1;93m: \033[1;FlowNouman
+\033[1;96mFacebook  \033[1;93m: \033[1; Okasha noor
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TheOkasha/OKASHAX3NOUMAN
 \033[1;91m======================================="""
 
 def tik():
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "OKASHA"
+CorrectPassword = "NOMI"
 
 loop = 'true'
 while (loop == 'true'):
@@ -99,12 +99,12 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
-    else:
+            print "Wrong Password
+            os.system('xdg-open https://www.Facebook.com/
+100036969377018
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
-
+        os.system('xdg-open https://www.Facebook.com/
+100036969377018
 def login():
 	os.system('clear')
 	try:
